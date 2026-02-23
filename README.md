@@ -31,6 +31,9 @@ Wasserstein-based GANs.
 - DCGAN (Convolutional GAN for image data)
 - Wasserstein GAN (WGAN)
 - Wasserstein GAN with Gradient Penalty (WGAN-GP)
+- Style GAN
+- Pass GAN
+- Cycle GAN
 
 Each model is implemented using explicit training loops to avoid black-box
 abstractions and improve conceptual clarity.
